@@ -3,7 +3,6 @@
 abaixo ha um exemplo de cógio minimo em C++, para um Hello World
 
 ```cpp
-```cpp
 #include <iostream>
 
 int main() {
@@ -12,7 +11,7 @@ int main() {
 }
 ```
 
-## Componemtes estruturais explicitos
+## Componentes estruturais explicitos
 
 1, Diretiva de pŕe-processamento
 
