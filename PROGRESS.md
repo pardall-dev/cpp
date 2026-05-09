@@ -1,6 +1,8 @@
+# Temas estudados
 - compiladores
 - estrutura básica
 
+# Timeline de estudos
 2026-05-07
 - Criei a estrutura básica para começar nos estudos de C++
 - Estudei sobre os compiladores de código de C e C++
