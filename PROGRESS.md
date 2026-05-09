@@ -2,6 +2,25 @@
 - compiladores
 - estrutura básica
 
+- Tipos inteiros:
+  - `char`
+  - `int`
+  - `short`
+  - `long`
+  - `signed`
+  - `unsigned`
+
+- Tipos de ponto flutuante:
+  - `float`
+  - `double`
+
+- Tipos Booleano e Vazio:
+  - `void`
+  - `bool`
+
+- Tipos Composto
+- 
+
 # Timeline de estudos
 2026-05-07
 - Criei a estrutura básica para começar nos estudos de C++
